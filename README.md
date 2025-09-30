@@ -46,7 +46,7 @@ Content-Type: application/json
 
 {
     "urls": [
-        "https://example.com/file1.pdf",
-        "https://example.com/file2.jpg"
+        "https://avatarko.ru/img/kartinka/1/Crazy_Frog.jpg",
+        "https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-pdf-file-icon-png-png-image_4899509.png"
     ]
 }
